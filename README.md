@@ -1,3 +1,1 @@
-Burak Kagan Gur, junior @ Bilkent University Computer Science 
-
-# Hyperreal.
+Burak Kagan Gur, senior @ Bilkent University Computer Science 
